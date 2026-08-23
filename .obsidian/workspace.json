@@ -11,10 +11,13 @@
             "id": "3cf3a9366f13116c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
         ]
@@ -182,6 +185,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,

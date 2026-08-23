@@ -1,0 +1,2 @@
+abre meu e-mail e separa tudo em quatro grupos: precisa de resposta minha, precisa só de leitura, promoção e newsletter. arquiva o que é promoção com mais de 30 dias, cancela minha inscrição no que eu não abro há 6 meses e me entrega uma lista só do que ficou pendente, em ordem de urgência.
+#claude #ia #prompts 

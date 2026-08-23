@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "3a3a66f63b7101ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "de815e4b9303a145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf3a9366f13116c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db776ac1da821589",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b2c1c22b8ace3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d622ab0ab04c39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "7ee7ffee7591e603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "9251c65c6b7b2439",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "3bdf65774e9e2c89",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60dce28a6dc25522",
+    "type": "split",
+    "children": [
+      {
+        "id": "4811f8dd00fea4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d752662306bec9a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "bcbe6bb57d8a7d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "a91ca59b30c9e278",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c5028734075a3441",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "308ea4f672d48fb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "random-note:Abrir nota aleatória": false,
+      "templater-obsidian:Templater": false,
+      "tasknotes:Abrir visualização de mini calendário": false,
+      "tasknotes:Abrir visualização de calendário": false,
+      "tasknotes:Abrir visualização de tarefas": false,
+      "tasknotes:Abrir visualização de agenda": false,
+      "tasknotes:Abrir quadro kanban": false,
+      "tasknotes:Abrir temporizador pomodoro": false,
+      "tasknotes:Abrir estatísticas pomodoro": false,
+      "tasknotes:Criar nova tarefa": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "3cf3a9366f13116c",
+  "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/Remarcar FC com Jean.md",
+    "TaskNotes/Tasks/Remarcar FC com Bárbara Tinti.md",
+    "Pós Graduação em Catequese/Aula Inaugural/Cinco Fronteiras de Nossa Missão (Catequista).md",
+    "Pós Graduação em Catequese/Aula Inaugural/Cinco Dimensões de Nossa Missão.md",
+    "Pós Graduação em Catequese/Aula Inaugural/Cinco Camadas de Nossa Missão.md",
+    "TaskNotes/Tasks/Preparar e estudar a reposição da Crisma.md",
+    "TaskNotes/Tasks/Fazer apresentação da Crisma Fruto do Espírito Santo.md",
+    "TaskNotes/Tasks/Preparar próxima apresentação do Galoi.md",
+    "TaskNotes/Tasks/Marcar AB com Six sobre Seguro de Vida.md",
+    "TaskNotes/Tasks/Marcar AB com Jamili sobre Seguro de Vida.md",
+    "TaskNotes/Tasks/Fazer indicadores para acompanhamento semanal.md",
+    "TaskNotes/Tasks/Falar com João sobre parceria no consórcio.md",
+    "TaskNotes/Tasks/Verificar qual valor da comissão oferecerei aos parceiros, corretores de imóveis.md",
+    "TaskNotes/Tasks/Ligar para Ana Clara, para falar sobre parceria no consórcio.md",
+    "TaskNotes/Tasks/Mandar mensagem de consórcio a conhecidos de brasília.md",
+    "TaskNotes/Tasks/Enviar msg de consórcio nos grupos de WhatSapp.md",
+    "TaskNotes/Tasks/Fazer planilha de indicação de clientes.md",
+    "TaskNotes/Tasks/Enviar mensagens para clientes pedindo indicação para consórcio.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Tasks/Providenciar cotação de seguro auto para Fernando.md",
+    "TaskNotes/Tasks/Vender consórcio Âncora.md",
+    "TaskNotes/Tasks/Fazer relatório do curso.md",
+    "TaskNotes/Tasks/Fazer post da Blindamed.md",
+    "TaskNotes/Tasks/Preparar material para vídeo.md",
+    "TaskNotes/Tasks/Ligar para 50 leads.md",
+    "TaskNotes/Tasks/Verificar pendência no DETRAN.md",
+    "Pós Graduação em Catequese/Aula Inaugural",
+    "Pós Graduação em Catequese",
+    "Trabalho",
+    "Lista do Mercado",
+    "Sem título 1.base",
+    "WhatsApp Image 2026-08-08 at 07.20.22.jpeg"
+  ]
+}

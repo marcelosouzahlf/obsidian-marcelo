@@ -1,0 +1,2 @@
+vasculha meu e-mail e minhas faturas atrás de toda cobrança recorrente ativa. monta uma lista com nome, valor mensal, valor anual e a data da última vez que eu usei aquilo. depois entra em cada serviço que eu marcar e cancela, guardando o print da confirmação
+#claude #ia #prompts 

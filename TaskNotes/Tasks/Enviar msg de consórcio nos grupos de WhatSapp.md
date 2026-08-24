@@ -1,14 +1,15 @@
 ---
-status: in-progress
+status: done
 priority: normal
 due: 2026-08-23
 scheduled: 2026-08-22
 dateCreated: 2026-08-22T22:20:26.641-03:00
-dateModified: 2026-08-22T23:16:39.842-03:00
+dateModified: 2026-08-23T20:41:32.417-03:00
 tags:
   - consórcio
   - task
 tasknotes_manual_order: tneiriririrg
+completedDate: 2026-08-23
 ---
 
 Oi, pessoal! Me apresentando para quem ainda não me conhece: sou o Marcelo, Apto 1709B, trabalho com planejamento financeiro e proteção patrimonial há 14 anos — seguro de vida, previdência e consórcio.

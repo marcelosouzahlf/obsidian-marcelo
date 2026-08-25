@@ -1,10 +1,10 @@
 ---
-status: open
+status: in-progress
 priority: normal
 due: 2026-08-23
 scheduled: 2026-08-22
 dateCreated: 2026-08-22T22:32:32.716-03:00
-dateModified: 2026-08-22T22:36:09.431-03:00
+dateModified: 2026-08-25T09:28:17.736-03:00
 tags:
   - task
 tasknotes_manual_order: tneiriririrc

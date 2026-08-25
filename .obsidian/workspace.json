@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "Aprender algum assunto"
             }
+          },
+          {
+            "id": "424ea6a486bae9d1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +222,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "3cf3a9366f13116c",
+  "active": "424ea6a486bae9d1",
   "lastOpenFiles": [
+    "Aprender algum assunto.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Remarcar FC com Jean.md",
     "TaskNotes/Tasks/Remarcar FC com Bárbara Tinti.md",

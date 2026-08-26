@@ -35,13 +35,14 @@
             "id": "20cee2bfc773d420",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Consórcios/Mensagens de Consórcio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Mensagens de Consórcio"
             }
           }
         ],
@@ -234,9 +235,9 @@
   },
   "active": "20cee2bfc773d420",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Cadastrar minha empresa na Servopa.md",
     "Consórcios/Mensagens de Consórcio.md",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
     "Aprender algum assunto.md",
     "TaskNotes/Tasks/Fazer resumo detalhado para o Valério.md",
@@ -262,7 +263,6 @@
     "TaskNotes/Tasks/Ligar para Ana Clara, para falar sobre parceria no consórcio.md",
     "TaskNotes/Tasks/Mandar mensagem de consórcio a conhecidos de brasília.md",
     "TaskNotes/Tasks/Enviar msg de consórcio nos grupos de WhatSapp.md",
-    "TaskNotes/Tasks/Fazer planilha de indicação de clientes.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/calendar-default.base",

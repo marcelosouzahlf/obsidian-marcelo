@@ -44,9 +44,22 @@
               "icon": "lucide-file",
               "title": "Mensagens de Consórcio"
             }
+          },
+          {
+            "id": "36e97d479d2adddd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,11 +246,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "20cee2bfc773d420",
+  "active": "36e97d479d2adddd",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/Entrar em contato com Dra. Flávia, indicação de Danielle Monteiro.md",
+    "Consórcios/Mensagens de Consórcio.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Cadastrar minha empresa na Servopa.md",
-    "Consórcios/Mensagens de Consórcio.md",
     "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
     "Aprender algum assunto.md",
     "TaskNotes/Tasks/Fazer resumo detalhado para o Valério.md",

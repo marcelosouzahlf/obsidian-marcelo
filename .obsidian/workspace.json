@@ -49,13 +49,14 @@
             "id": "36e97d479d2adddd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Aprender algum assunto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Aprender algum assunto"
             }
           }
         ],
@@ -248,9 +249,9 @@
   },
   "active": "36e97d479d2adddd",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Entrar em contato com Dra. Flávia, indicação de Danielle Monteiro.md",
     "Consórcios/Mensagens de Consórcio.md",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Cadastrar minha empresa na Servopa.md",
     "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
     "Aprender algum assunto.md",
@@ -276,7 +277,6 @@
     "TaskNotes/Tasks/Verificar qual valor da comissão oferecerei aos parceiros, corretores de imóveis.md",
     "TaskNotes/Tasks/Ligar para Ana Clara, para falar sobre parceria no consórcio.md",
     "TaskNotes/Tasks/Mandar mensagem de consórcio a conhecidos de brasília.md",
-    "TaskNotes/Tasks/Enviar msg de consórcio nos grupos de WhatSapp.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/calendar-default.base",

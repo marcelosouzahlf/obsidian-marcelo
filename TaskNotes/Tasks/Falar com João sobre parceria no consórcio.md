@@ -1,13 +1,14 @@
 ---
-status: in-progress
+status: done
 priority: normal
 due: 2026-08-23
 scheduled: 2026-08-22
 dateCreated: 2026-08-22T22:32:32.716-03:00
-dateModified: 2026-08-25T09:28:17.736-03:00
+dateModified: 2026-08-31T17:45:12.280-03:00
 tags:
   - task
 tasknotes_manual_order: tneiriririrc
+completedDate: 2026-08-31
 ---
 
 Oi, [Nome]! Meu nome é Marcelo, sou corretor de seguros e trabalho com consórcio de imóvel pela Âncora.

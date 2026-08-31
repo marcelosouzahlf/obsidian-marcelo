@@ -58,9 +58,22 @@
               "icon": "lucide-file",
               "title": "Aprender algum assunto"
             }
+          },
+          {
+            "id": "0e8cdd959e6c4d70",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,14 +260,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "36e97d479d2adddd",
+  "active": "0e8cdd959e6c4d70",
   "lastOpenFiles": [
+    "Aprender algum assunto.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Entrar em contato com Dra. Flávia, indicação de Danielle Monteiro.md",
     "Consórcios/Mensagens de Consórcio.md",
     "TaskNotes/Tasks/Cadastrar minha empresa na Servopa.md",
     "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
-    "Aprender algum assunto.md",
     "TaskNotes/Tasks/Fazer resumo detalhado para o Valério.md",
     "Claude/Cowork Prompts.md",
     "Prompts IA/Pesquisa de Produtos.md",

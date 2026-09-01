@@ -4,8 +4,10 @@ priority: normal
 due: 2026-08-26
 scheduled: 2026-08-26
 dateCreated: 2026-08-26T15:09:38.338-03:00
-dateModified: 2026-08-26T15:23:50.246-03:00
+dateModified: 2026-09-01T11:42:07.833-03:00
 tags:
   - task
 ---
 
+Feito contato. Aguardando retorno.
+Já viu a mensagem, mas não respondeu

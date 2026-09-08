@@ -54,9 +54,22 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "6a10e5db254879f5",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,8 +256,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "0e8cdd959e6c4d70",
+  "active": "6a10e5db254879f5",
   "lastOpenFiles": [
+    "Pasted image 20260908100946.png",
+    "Pasted image 20260908100928.png",
     "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "TaskNotes/Views/kanban-default.base",
     "Canal YouTube/Ideias de Temas",

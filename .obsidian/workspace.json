@@ -25,13 +25,14 @@
             "id": "50d46cc10bc61ed0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Depois de enviada a proposta"
             }
           },
           {
@@ -258,13 +259,23 @@
   },
   "active": "50d46cc10bc61ed0",
   "lastOpenFiles": [
+    "Pasted image 20260911172046.png",
+    "Pasted image 20260911172030.png",
+    "Pasted image 20260911172008.png",
+    "Pasted image 20260911171946.png",
+    "Pasted image 20260911171924.png",
+    "Pasted image 20260911171901.png",
+    "Pasted image 20260911171838.png",
+    "Consórcios/Mensagens de Consórcio.md",
+    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
+    "Seguro de Vida/Frases para utilizar",
+    "Seguro de Vida",
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Realizar cadastro da Âncora.md",
     "Aprender algum assunto.md",
-    "Consórcios/Mensagens de Consórcio.md",
     "Pasted image 20260909112651.png",
     "Pasted image 20260908100946.png",
     "Pasted image 20260908100928.png",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Responder Ráfare.md",
     "TaskNotes/Tasks/Responder Douglas.md",
     "TaskNotes/Tasks/Enviar DIT da MAG para Jamilly.md",
@@ -288,15 +299,11 @@
     "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
     "TaskNotes/Tasks/Fazer resumo detalhado para o Valério.md",
     "Claude/Cowork Prompts.md",
-    "Prompts IA/Pesquisa de Produtos.md",
-    "Resumo de e-mails.md",
     "Consórcios/Sem título",
     "Consórcios",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/agenda-default.base",
-    "Pós Graduação em Catequese/Aula Inaugural",
     "WhatsApp Image 2026-08-08 at 07.20.22.jpeg"
   ]
 }

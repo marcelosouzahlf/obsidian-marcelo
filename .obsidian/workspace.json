@@ -22,6 +22,19 @@
             }
           },
           {
+            "id": "50d46cc10bc61ed0",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
+          },
+          {
             "id": "0e8cdd959e6c4d70",
             "type": "leaf",
             "state": {
@@ -55,7 +68,8 @@
               "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,8 +256,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "36e97d479d2adddd",
+  "active": "50d46cc10bc61ed0",
   "lastOpenFiles": [
+    "Aprender algum assunto.md",
     "Consórcios/Mensagens de Consórcio.md",
     "Pasted image 20260909112651.png",
     "Pasted image 20260908100946.png",
@@ -256,7 +271,6 @@
     "TaskNotes/Tasks/Verificar Estâncias para Aldiny.md",
     "TaskNotes/Tasks/Fazer cadastro da BVS na Ademicon.md",
     "TaskNotes/Tasks/Fazer simulações do Douglas.md",
-    "Aprender algum assunto.md",
     "TaskNotes/Tasks/Fazer cadastro da FIDES no Santander.md",
     "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "Canal YouTube/Ideias de Temas",

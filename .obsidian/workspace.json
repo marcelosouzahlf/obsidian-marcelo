@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "5e420cdc24e269ae",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
+          },
+          {
             "id": "0e8cdd959e6c4d70",
             "type": "leaf",
             "state": {
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,8 +270,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "50d46cc10bc61ed0",
+  "active": "5e420cdc24e269ae",
   "lastOpenFiles": [
+    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "Pasted image 20260911172046.png",
     "Pasted image 20260911172030.png",
     "Pasted image 20260911172008.png",
@@ -267,7 +281,6 @@
     "Pasted image 20260911171901.png",
     "Pasted image 20260911171838.png",
     "Consórcios/Mensagens de Consórcio.md",
-    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "Seguro de Vida/Frases para utilizar",
     "Seguro de Vida",
     "TaskNotes/Views/kanban-default.base",
@@ -303,7 +316,6 @@
     "Consórcios",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "WhatsApp Image 2026-08-08 at 07.20.22.jpeg"
+    "TaskNotes/Views/calendar-default.base"
   ]
 }

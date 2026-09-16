@@ -39,13 +39,14 @@
             "id": "5e420cdc24e269ae",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Depois de enviada a proposta"
             }
           },
           {
@@ -272,6 +273,8 @@
   },
   "active": "5e420cdc24e269ae",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/Fazer relatório da Pós.md",
     "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "Pasted image 20260911172046.png",
     "Pasted image 20260911172030.png",
@@ -283,7 +286,6 @@
     "Consórcios/Mensagens de Consórcio.md",
     "Seguro de Vida/Frases para utilizar",
     "Seguro de Vida",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Realizar cadastro da Âncora.md",
     "Aprender algum assunto.md",
     "Pasted image 20260909112651.png",
@@ -311,7 +313,6 @@
     "TaskNotes/Tasks/Cadastrar minha empresa na Servopa.md",
     "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
     "TaskNotes/Tasks/Fazer resumo detalhado para o Valério.md",
-    "Claude/Cowork Prompts.md",
     "Consórcios/Sem título",
     "Consórcios",
     "TaskNotes/Views/mini-calendar-default.base",

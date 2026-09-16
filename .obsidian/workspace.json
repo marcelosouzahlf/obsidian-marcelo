@@ -50,41 +50,20 @@
             }
           },
           {
-            "id": "0e8cdd959e6c4d70",
+            "id": "67ee6673bada5cf4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "6a10e5db254879f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Aprender algum assunto.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "Aprender algum assunto"
-            }
-          },
-          {
-            "id": "9435155602a89bbf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,11 +250,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "5e420cdc24e269ae",
+  "active": "67ee6673bada5cf4",
   "lastOpenFiles": [
+    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer relatório da Pós.md",
-    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "Pasted image 20260911172046.png",
     "Pasted image 20260911172030.png",
     "Pasted image 20260911172008.png",

@@ -53,13 +53,14 @@
             "id": "67ee6673bada5cf4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Aprender algum assunto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Aprender algum assunto"
             }
           }
         ],
@@ -252,10 +253,12 @@
   },
   "active": "67ee6673bada5cf4",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/Fazer seguro de vida da Bárbara.md",
+    "TaskNotes/Tasks/Fazer simulações da Maria.md",
     "TaskNotes/Tasks/Carlos da Ademicon, dizer que pegou o tel com o Gui da Vante, ver o que precisa para cadastrar a BVS ou a fides na ademicon, agendar reunião para explicar o funcionamento e a parceria com o Bora.md",
     "TaskNotes/Tasks/Falar com Nyedja para ver quem ficou com a BVS, pode falar que a empresa é do marido da Iara da Vante, agendar reunião para explicar o funcionamento e a parceria com o Bora na obra.md",
     "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer relatório da Pós.md",
     "Pasted image 20260911172046.png",
     "Pasted image 20260911172030.png",
@@ -290,9 +293,6 @@
     "TaskNotes/Tasks/Fazer proposta de Seguro de Vida e Seguro Residencial para Barros e Mirian.md",
     "TaskNotes/Tasks/Entregar resumo ao Valério.md",
     "TaskNotes/Tasks/Fazenda do Kaká.md",
-    "TaskNotes/Tasks/Entrar em contato com Dra. Flávia, indicação de Danielle Monteiro.md",
-    "TaskNotes/Tasks/Cadastrar minha empresa na Servopa.md",
-    "TaskNotes/Tasks/Fazer contrato entre Fides e Barros Brasil.md",
     "Consórcios/Sem título",
     "Consórcios",
     "TaskNotes/Views/mini-calendar-default.base",

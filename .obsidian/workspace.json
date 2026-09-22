@@ -44,9 +44,22 @@
               "icon": "lucide-file",
               "title": "Documentação Necessária"
             }
+          },
+          {
+            "id": "1c9af88df922efcd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,14 +246,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8d187dbbb512ffff",
+  "active": "1c9af88df922efcd",
   "lastOpenFiles": [
+    "Financiamentos/Documentação Necessária.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Ver como fazemos cadastro no daycoval para Home Equity.md",
     "TaskNotes/Tasks/Criar check lists de documentos com a Logo BVS.md",
     "TaskNotes/Tasks/Fazer cadastro da BVS e FIDES na LOFT.md",
-    "Financiamentos/Documentação Necessária.md",
     "Financiamentos",
     "TaskNotes/Tasks/Pegar documentações necessárias para o financiamento da Bárbara.md",
     "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",

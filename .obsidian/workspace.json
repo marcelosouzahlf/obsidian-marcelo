@@ -4,67 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b7c928c25c556c2a",
+        "id": "f3275754496ea125",
         "type": "tabs",
         "children": [
           {
-            "id": "36e97d479d2adddd",
+            "id": "ed164a717201e93a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Aprender algum assunto.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "Aprender algum assunto"
-            }
-          },
-          {
-            "id": "50d46cc10bc61ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Depois de enviada a proposta"
-            }
-          },
-          {
-            "id": "5e420cdc24e269ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Depois de enviada a proposta"
-            }
-          },
-          {
-            "id": "67ee6673bada5cf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprender algum assunto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aprender algum assunto"
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,14 +207,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "67ee6673bada5cf4",
+  "active": "ed164a717201e93a",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/Pegar documentações necessárias para o financiamento da Bárbara.md",
+    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
+    "Aprender algum assunto.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer seguro de vida da Bárbara.md",
     "TaskNotes/Tasks/Fazer simulações da Maria.md",
     "TaskNotes/Tasks/Carlos da Ademicon, dizer que pegou o tel com o Gui da Vante, ver o que precisa para cadastrar a BVS ou a fides na ademicon, agendar reunião para explicar o funcionamento e a parceria com o Bora.md",
     "TaskNotes/Tasks/Falar com Nyedja para ver quem ficou com a BVS, pode falar que a empresa é do marido da Iara da Vante, agendar reunião para explicar o funcionamento e a parceria com o Bora na obra.md",
-    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "TaskNotes/Tasks/Fazer relatório da Pós.md",
     "Pasted image 20260911172046.png",
     "Pasted image 20260911172030.png",
@@ -271,7 +229,6 @@
     "Seguro de Vida/Frases para utilizar",
     "Seguro de Vida",
     "TaskNotes/Tasks/Realizar cadastro da Âncora.md",
-    "Aprender algum assunto.md",
     "Pasted image 20260909112651.png",
     "Pasted image 20260908100946.png",
     "Pasted image 20260908100928.png",

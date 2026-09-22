@@ -25,6 +25,16 @@
             "id": "9d9813909f2942c6",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "8d187dbbb512ffff",
+            "type": "leaf",
+            "state": {
               "type": "bases",
               "state": {
                 "file": "TaskNotes/Views/kanban-default.base",
@@ -35,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,10 +232,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "9d9813909f2942c6",
+  "active": "8d187dbbb512ffff",
   "lastOpenFiles": [
-    "Financiamentos/Documentação Necessária.md",
     "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
+    "TaskNotes/Tasks/Ver como fazemos cadastro no daycoval para Home Equity.md",
+    "TaskNotes/Tasks/Criar check lists de documentos com a Logo BVS.md",
+    "TaskNotes/Tasks/Fazer cadastro da BVS e FIDES na LOFT.md",
+    "Financiamentos/Documentação Necessária.md",
     "Financiamentos",
     "TaskNotes/Tasks/Pegar documentações necessárias para o financiamento da Bárbara.md",
     "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
@@ -261,10 +275,6 @@
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
     "TaskNotes/Tasks/Fazer simulações para Maria.md",
-    "TaskNotes/Tasks/Fazer confissão geral.md",
-    "TaskNotes/Tasks/Verificar possibilidade de financiamento para obra do condomínio do Fábio.md",
-    "TaskNotes/Tasks/Transferir previdência da Icatu.md",
-    "TaskNotes/Tasks/Fazer proposta de Seguro de Vida e Seguro Residencial para Barros e Mirian.md",
     "Consórcios/Sem título",
     "Consórcios",
     "TaskNotes/Views/mini-calendar-default.base",

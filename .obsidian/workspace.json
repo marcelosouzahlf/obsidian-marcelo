@@ -49,13 +49,14 @@
             "id": "1c9af88df922efcd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Canal YouTube/Ideias de Temas/Porque Deus mandava matar todo mundo no Antigo Testamento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Porque Deus mandava matar todo mundo no Antigo Testamento"
             }
           }
         ],
@@ -248,8 +249,10 @@
   },
   "active": "1c9af88df922efcd",
   "lastOpenFiles": [
-    "Financiamentos/Documentação Necessária.md",
+    "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
+    "Canal YouTube/Ideias de Temas/Porque Deus mandava matar todo mundo no Antigo Testamento.md",
     "TaskNotes/Views/kanban-default.base",
+    "Financiamentos/Documentação Necessária.md",
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Ver como fazemos cadastro no daycoval para Home Equity.md",
     "TaskNotes/Tasks/Criar check lists de documentos com a Logo BVS.md",
@@ -285,7 +288,6 @@
     "TaskNotes/Tasks/Fazer cadastro da BVS na Ademicon.md",
     "TaskNotes/Tasks/Fazer simulações do Douglas.md",
     "TaskNotes/Tasks/Fazer cadastro da FIDES no Santander.md",
-    "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
     "TaskNotes/Tasks/Fazer simulações para Maria.md",

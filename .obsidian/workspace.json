@@ -58,9 +58,22 @@
               "icon": "lucide-file",
               "title": "Porque Deus mandava matar todo mundo no Antigo Testamento"
             }
+          },
+          {
+            "id": "80b09741e205184b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,10 +260,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1c9af88df922efcd",
+  "active": "80b09741e205184b",
   "lastOpenFiles": [
-    "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "Canal YouTube/Ideias de Temas/Porque Deus mandava matar todo mundo no Antigo Testamento.md",
+    "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "TaskNotes/Views/kanban-default.base",
     "Financiamentos/Documentação Necessária.md",
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",

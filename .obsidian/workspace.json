@@ -72,9 +72,22 @@
               "icon": "lucide-file",
               "title": "Didática com os catequizandos"
             }
+          },
+          {
+            "id": "fbac08f33de3ac1d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,11 +274,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "80b09741e205184b",
+  "active": "fbac08f33de3ac1d",
   "lastOpenFiles": [
+    "Pós Graduação em Catequese/Didática com os catequizandos.md",
     "Pasted image 20260922214111.png",
     "TaskNotes/Views/kanban-default.base",
-    "Pós Graduação em Catequese/Didática com os catequizandos.md",
     "Canal YouTube/Ideias de Temas/Porque Deus mandava matar todo mundo no Antigo Testamento.md",
     "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "Financiamentos/Documentação Necessária.md",
@@ -295,7 +308,6 @@
     "TaskNotes/Tasks/Realizar cadastro da Âncora.md",
     "Pasted image 20260909112651.png",
     "Pasted image 20260908100946.png",
-    "Pasted image 20260908100928.png",
     "TaskNotes/Tasks/Responder Ráfare.md",
     "TaskNotes/Tasks/Responder Douglas.md",
     "TaskNotes/Tasks/Enviar DIT da MAG para Jamilly.md",

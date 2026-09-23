@@ -63,13 +63,14 @@
             "id": "80b09741e205184b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Pós Graduação em Catequese/Didática com os catequizandos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Didática com os catequizandos"
             }
           }
         ],
@@ -262,9 +263,11 @@
   },
   "active": "80b09741e205184b",
   "lastOpenFiles": [
+    "Pasted image 20260922214111.png",
+    "TaskNotes/Views/kanban-default.base",
+    "Pós Graduação em Catequese/Didática com os catequizandos.md",
     "Canal YouTube/Ideias de Temas/Porque Deus mandava matar todo mundo no Antigo Testamento.md",
     "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
-    "TaskNotes/Views/kanban-default.base",
     "Financiamentos/Documentação Necessária.md",
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Ver como fazemos cadastro no daycoval para Home Equity.md",
@@ -300,10 +303,8 @@
     "TaskNotes/Tasks/Verificar Estâncias para Aldiny.md",
     "TaskNotes/Tasks/Fazer cadastro da BVS na Ademicon.md",
     "TaskNotes/Tasks/Fazer simulações do Douglas.md",
-    "TaskNotes/Tasks/Fazer cadastro da FIDES no Santander.md",
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
-    "TaskNotes/Tasks/Fazer simulações para Maria.md",
     "Consórcios/Sem título",
     "Consórcios",
     "TaskNotes/Views/mini-calendar-default.base",

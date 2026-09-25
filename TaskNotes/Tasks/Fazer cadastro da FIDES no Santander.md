@@ -1,10 +1,10 @@
 ---
 status: in-progress
-priority: normal
+priority: high
 due: 2026-09-09
 scheduled: 2026-09-09
 dateCreated: 2026-09-09T09:41:38.295-03:00
-dateModified: 2026-09-23T11:13:30.858-03:00
+dateModified: 2026-09-25T11:43:05.005-03:00
 tags:
   - consórcio
   - task

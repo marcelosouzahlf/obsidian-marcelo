@@ -25,17 +25,47 @@
             "id": "d4f3a0eddad2f3c1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "7ad4152c580b8ed8",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
+            }
+          },
+          {
+            "id": "162c909d8cb24cb7",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
+            }
+          },
+          {
+            "id": "d810d6d54e3370b3",
+            "type": "leaf",
+            "state": {
               "type": "bases",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "TaskNotes/Views/agenda-default.base",
+                "viewName": "Agenda"
               },
               "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "title": "agenda-default"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,8 +129,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ]
@@ -222,14 +252,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d4f3a0eddad2f3c1",
+  "active": "d810d6d54e3370b3",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/Agendar conversa com Fábio Vieira BNO.md",
     "TaskNotes/Tasks/Agendar com o cliente de Nathálya Leal, do Bora.md",
     "Procurar Boletos.md",
     "Pasted image 20260908100928.png",
     "Pasted image 20260911171838.png",
     "BVS/Atividades.md",
-    "TaskNotes/Views/kanban-default.base",
     "BVS",
     "Pós Graduação em Catequese/Didática com os catequizandos.md",
     "Pasted image 20260922214111.png",
@@ -263,8 +294,6 @@
     "TaskNotes/Tasks/Responder Ráfare.md",
     "TaskNotes/Tasks/Responder Douglas.md",
     "TaskNotes/Tasks/Enviar DIT da MAG para Jamilly.md",
-    "TaskNotes/Tasks/Fazer artigo para Pós.md",
-    "TaskNotes/Tasks/Verificar Estâncias para Aldiny.md",
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
     "Consórcios/Sem título",

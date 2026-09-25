@@ -1,10 +1,10 @@
 ---
 status: open
-priority: normal
+priority: high
 due: 2026-09-07
 scheduled: 2026-09-05
 dateCreated: 2026-09-05T06:42:42.448-03:00
-dateModified: 2026-09-25T09:50:11.517-03:00
+dateModified: 2026-09-25T11:43:11.377-03:00
 tags:
   - task
 tasknotes_manual_order: tnkkkkkkkkkk

@@ -63,9 +63,22 @@
               "icon": "tasknotes-simple",
               "title": "agenda-default"
             }
+          },
+          {
+            "id": "b8f67f22c8f2f973",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,8 +265,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d810d6d54e3370b3",
+  "active": "b8f67f22c8f2f973",
   "lastOpenFiles": [
+    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Agendar conversa com Fábio Vieira BNO.md",
     "TaskNotes/Tasks/Agendar com o cliente de Nathálya Leal, do Bora.md",

@@ -77,9 +77,22 @@
               "icon": "lucide-file",
               "title": "Aprender algum assunto"
             }
+          },
+          {
+            "id": "e5a17bf518d9e832",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -266,8 +279,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b8f67f22c8f2f973",
+  "active": "e5a17bf518d9e832",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/Enviar mensagem para Anderson BNO. Está interessado em seguro de obras.md",
+    "Aprender algum assunto.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/Agendar conversa com Fábio Vieira BNO.md",
@@ -289,7 +304,6 @@
     "Financiamentos",
     "TaskNotes/Tasks/Pegar documentações necessárias para o financiamento da Bárbara.md",
     "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
-    "Aprender algum assunto.md",
     "TaskNotes/Tasks/Fazer seguro de vida da Bárbara.md",
     "TaskNotes/Tasks/Fazer simulações da Maria.md",
     "TaskNotes/Tasks/Carlos da Ademicon, dizer que pegou o tel com o Gui da Vante, ver o que precisa para cadastrar a BVS ou a fides na ademicon, agendar reunião para explicar o funcionamento e a parceria com o Bora.md",
@@ -312,7 +326,6 @@
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
     "Consórcios/Sem título",
-    "Consórcios",
-    "TaskNotes/Views/mini-calendar-default.base"
+    "Consórcios"
   ]
 }

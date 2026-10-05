@@ -11,13 +11,31 @@
             "id": "dd3f1ad72a55ce10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Acompanhar fechamento de financiamento com o João Paulo"
+            }
+          },
+          {
+            "id": "ba68f378f20a6888",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +210,23 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "random-note:Abrir nota aleatória": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "tasknotes:Abrir visualização de mini calendário": false,
+      "tasknotes:Abrir visualização de calendário": false,
+      "tasknotes:Abrir visualização de tarefas": false,
+      "tasknotes:Abrir visualização de agenda": false,
+      "tasknotes:Abrir quadro kanban": false,
+      "tasknotes:Abrir temporizador pomodoro": false,
+      "tasknotes:Abrir estatísticas pomodoro": false,
+      "tasknotes:Criar nova tarefa": false
     }
   },
-  "active": "dd3f1ad72a55ce10",
+  "active": "ba68f378f20a6888",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/Fazer discriminação para o Valério.md",
+    "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
+    "TaskNotes/Tasks/Abrir conta corrente da BVS no Santander.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Enviar mensagem para Anderson BNO. Está interessado em seguro de obras.md",
     "Aprender algum assunto.md",
@@ -213,7 +243,6 @@
     "Canal YouTube/Ideias de Temas/Porque Deus mandava matar todo mundo no Antigo Testamento.md",
     "Canal YouTube/Ideias de Temas/Responder a Deus com amor.md",
     "Financiamentos/Documentação Necessária.md",
-    "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Ver como fazemos cadastro no daycoval para Home Equity.md",
     "TaskNotes/Tasks/Criar check lists de documentos com a Logo BVS.md",
     "TaskNotes/Tasks/Fazer cadastro da BVS e FIDES na LOFT.md",
@@ -237,7 +266,6 @@
     "TaskNotes/Tasks/Realizar cadastro da Âncora.md",
     "Pasted image 20260909112651.png",
     "TaskNotes/Tasks/Responder Ráfare.md",
-    "TaskNotes/Tasks/Responder Douglas.md",
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
     "Consórcios/Sem título",

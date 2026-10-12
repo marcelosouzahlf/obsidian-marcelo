@@ -25,13 +25,14 @@
             "id": "ba68f378f20a6888",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Canal YouTube/Detecção de Silêncio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Detecção de Silêncio"
             }
           }
         ],
@@ -224,10 +225,12 @@
   },
   "active": "ba68f378f20a6888",
   "lastOpenFiles": [
+    "Pasted image 20261012162143.png",
+    "TaskNotes/Views/kanban-default.base",
+    "Canal YouTube/Detecção de Silêncio.md",
     "TaskNotes/Tasks/Fazer discriminação para o Valério.md",
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Abrir conta corrente da BVS no Santander.md",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Enviar mensagem para Anderson BNO. Está interessado em seguro de obras.md",
     "Aprender algum assunto.md",
     "TaskNotes/Views/agenda-default.base",
@@ -263,9 +266,7 @@
     "Consórcios/Mensagens de Consórcio.md",
     "Seguro de Vida/Frases para utilizar",
     "Seguro de Vida",
-    "TaskNotes/Tasks/Realizar cadastro da Âncora.md",
     "Pasted image 20260909112651.png",
-    "TaskNotes/Tasks/Responder Ráfare.md",
     "Canal YouTube/Ideias de Temas",
     "Canal YouTube",
     "Consórcios/Sem título",

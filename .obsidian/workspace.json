@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Aprender algum assunto"
             }
+          },
+          {
+            "id": "4e6a357cd0676839",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,8 +236,9 @@
       "tasknotes:Criar nova tarefa": false
     }
   },
-  "active": "ba68f378f20a6888",
+  "active": "4e6a357cd0676839",
   "lastOpenFiles": [
+    "Aprender algum assunto.md",
     "Canal YouTube/Detecção de Silêncio.md",
     "Pasted image 20261012162143.png",
     "TaskNotes/Views/kanban-default.base",
@@ -232,7 +246,6 @@
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Abrir conta corrente da BVS no Santander.md",
     "TaskNotes/Tasks/Enviar mensagem para Anderson BNO. Está interessado em seguro de obras.md",
-    "Aprender algum assunto.md",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/Agendar conversa com Fábio Vieira BNO.md",
     "TaskNotes/Tasks/Agendar com o cliente de Nathálya Leal, do Bora.md",

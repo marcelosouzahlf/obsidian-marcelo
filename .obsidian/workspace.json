@@ -39,13 +39,14 @@
             "id": "4e6a357cd0676839",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Depois de enviada a proposta"
             }
           }
         ],
@@ -238,11 +239,11 @@
   },
   "active": "4e6a357cd0676839",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer solução para o Matheus.md",
     "Aprender algum assunto.md",
     "Canal YouTube/Detecção de Silêncio.md",
     "Pasted image 20261012162143.png",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer discriminação para o Valério.md",
     "TaskNotes/Tasks/Acompanhar fechamento de financiamento com o João Paulo.md",
     "TaskNotes/Tasks/Abrir conta corrente da BVS no Santander.md",
@@ -277,7 +278,6 @@
     "Pasted image 20260911171946.png",
     "Pasted image 20260911171924.png",
     "Pasted image 20260911171901.png",
-    "Consórcios/Mensagens de Consórcio.md",
     "Seguro de Vida/Frases para utilizar",
     "Seguro de Vida",
     "Canal YouTube/Ideias de Temas",

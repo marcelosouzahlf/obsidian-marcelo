@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "Depois de enviada a proposta"
             }
+          },
+          {
+            "id": "369fab650cafaf39",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,8 +250,9 @@
       "tasknotes:Criar nova tarefa": false
     }
   },
-  "active": "4e6a357cd0676839",
+  "active": "369fab650cafaf39",
   "lastOpenFiles": [
+    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/Fazer solução para o Matheus.md",
     "Aprender algum assunto.md",
@@ -266,7 +280,6 @@
     "TaskNotes/Tasks/Fazer cadastro da BVS e FIDES na LOFT.md",
     "Financiamentos",
     "TaskNotes/Tasks/Pegar documentações necessárias para o financiamento da Bárbara.md",
-    "Seguro de Vida/Frases para utilizar/Depois de enviada a proposta.md",
     "TaskNotes/Tasks/Fazer seguro de vida da Bárbara.md",
     "TaskNotes/Tasks/Fazer simulações da Maria.md",
     "TaskNotes/Tasks/Carlos da Ademicon, dizer que pegou o tel com o Gui da Vante, ver o que precisa para cadastrar a BVS ou a fides na ademicon, agendar reunião para explicar o funcionamento e a parceria com o Bora.md",
